@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 24c573e0e3a69114790ac7e7c34d9726
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265179
+  packageName: FPS Shooting Pack
+  packageVersion: 1.0
+  assetPath: Assets/FPS Shooting Pack/Prefab/guns/bulet.prefab
+  uploadId: 623638

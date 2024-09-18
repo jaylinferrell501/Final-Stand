@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ab51ebcc81d312d44a5cdb2d2936af8a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265179
+  packageName: FPS Shooting Pack
+  packageVersion: 1.0
+  assetPath: Assets/FPS Shooting Pack/Prefab/guns/crossbow.prefab
+  uploadId: 623638

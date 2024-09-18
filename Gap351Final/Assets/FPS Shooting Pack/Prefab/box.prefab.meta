@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6afb39b20058fbb41ad81e0972b8e7f8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265179
+  packageName: FPS Shooting Pack
+  packageVersion: 1.0
+  assetPath: Assets/FPS Shooting Pack/Prefab/box.prefab
+  uploadId: 623638

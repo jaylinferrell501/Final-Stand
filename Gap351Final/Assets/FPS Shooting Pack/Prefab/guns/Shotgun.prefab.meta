@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fa8a007aa59ddec4c981f75be33495e6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265179
+  packageName: FPS Shooting Pack
+  packageVersion: 1.0
+  assetPath: Assets/FPS Shooting Pack/Prefab/guns/Shotgun.prefab
+  uploadId: 623638
